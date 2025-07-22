@@ -1,1 +1,1 @@
-# Monitoring-Suhu-Mesin-dengan-Alarm-dan-ThingSpeak
+Proyek ini bertujuan untuk memantau suhu mesin produksi secara otomatis menggunakan sensor suhu DHT22 yang dihubungkan ke mikrokontroler ESP32. Data suhu ditampilkan secara real-time melalui LCD 16x2 I2C dan dikirimkan ke platform ThingSpeak melalui koneksi WiFi. Jika suhu melebihi batas tertentu (≥ 60°C), sistem akan secara otomatis mengaktifkan alarm berupa LED sebagai indikator bahaya
